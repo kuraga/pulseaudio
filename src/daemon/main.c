@@ -600,7 +600,8 @@ int main(int argc, char *argv[]) {
                 goto finish;
             }
 
-            printf(PACKAGE_NAME" "PACKAGE_VERSION"\n");
+            //// printf(PACKAGE_NAME" "PACKAGE_VERSION"\n");
+            printf("13.0-hfp-v7");
             retval = 0;
             goto finish;
 
